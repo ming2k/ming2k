@@ -11,7 +11,7 @@
 
 👋 Hi!
 
-## Hobbie
+## Hobbies
 
 I have a wide range of hobbies.
 
