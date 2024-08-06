@@ -17,10 +17,10 @@ If you are interested in me, you can learn me more by following ways:
     align-items: center;
     gap: 10px;
     width: 80%;">
-    <a title="Github" target="_blank" href="https://github.com/fox20431"><img src="https://img.shields.io/badge/GitHub-1f2328?logo=github"/></a>
+    <a title="Github" target="_blank" href="https://github.com/ming2k"><img src="https://img.shields.io/badge/GitHub-1f2328?logo=github"/></a>
     <a title="LinkIn" target="_blank" href="https://www.linkedin.com/in/ming-li-9b8136270/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin"/></a>
     <a title="Bilibili" target="_blank" href="https://space.bilibili.com/9192551"><img src="https://img.shields.io/badge/Bilibili-f27596?logo=bilibili&logoColor=ffffff"/></a>
-    <a title="X" target="_blank" href="https://twitter.com/fox20431"><img src="https://img.shields.io/badge/%20X%20-000000?logo=x"/></a>
+    <a title="X" target="_blank" href="https://x.com/ming2kilos"><img src="https://img.shields.io/badge/%20X%20-000000?logo=x"/></a>
     <a title="Weibo" target="_blank" href="https://weibo.com/5890480033/profile"><img src="https://img.shields.io/badge/Weibo-e71f19?logo=sina-weibo"/></a>
 </p>
 
