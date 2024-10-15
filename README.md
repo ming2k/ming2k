@@ -18,9 +18,9 @@ If you are interested in me, you can learn me more by following ways:
     gap: 10px;
     width: 80%;">
     <a title="Github" target="_blank" href="https://github.com/ming2k"><img src="https://img.shields.io/badge/GitHub-1f2328?logo=github"/></a>
-    <a title="LinkIn" target="_blank" href="https://www.linkedin.com/in/ming-li-9b8136270/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin"/></a>
+    <a title="LinkIn" target="_blank" href="https://www.linkedin.com/in/harrison-anderson-9b8136270/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin"/></a>
     <a title="Bilibili" target="_blank" href="https://space.bilibili.com/9192551"><img src="https://img.shields.io/badge/Bilibili-f27596?logo=bilibili&logoColor=ffffff"/></a>
-    <a title="X" target="_blank" href="https://x.com/ming2kilos"><img src="https://img.shields.io/badge/%20X%20-000000?logo=x"/></a>
+    <a title="X" target="_blank" href="https://x.com/mingmillennium"><img src="https://img.shields.io/badge/%20X%20-000000?logo=x"/></a>
     <a title="Weibo" target="_blank" href="https://weibo.com/5890480033/profile"><img src="https://img.shields.io/badge/Weibo-e71f19?logo=sina-weibo"/></a>
 </p>
 
@@ -66,14 +66,11 @@ If you are interested in me, you can learn me more by following ways:
 [<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />](#)
 [<img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" />](#)
 
-### Databases
+<!-- ### Databases
 
-[<a href="" rel="nofollow"> <img src="https://pics.freeicons.io/uploads/icons/png/9820297401540553608-512.png" width="40" height="40" style="max-width: 100%;"> </a>](#)
-[<a href="https://www.mongodb.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" style="max-width: 100%;"> </a>](#)
-[<a href="https://www.mysql.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="max-width: 100%;"> </a>](#)
-[<a href="https://www.postgresql.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" style="max-width: 100%;"> </a>](#)
-[<a href="https://firebase.google.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/3e5344a2965e786497ceb575ad67d2c64d412bb9683da05791edf424a0e40734/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f66697265626173652f66697265626173652d69636f6e2e737667" alt="firebase" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="max-width: 100%;"> </a>](#)
-
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" style="max-width: 100%;">](https://www.mongodb.com/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="max-width: 100%;">](https://www.mysql.com/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" style="max-width: 100%;">](https://www.postgresql.org) -->
 
 ### Teamwork Environments
 [<img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />](#)
