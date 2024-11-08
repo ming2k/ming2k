@@ -1,0 +1,48 @@
+# Validate PR title and commits against Conventional Commits spec
+titleOnly: false
+scopes:
+  - ci
+  - deps
+  - docs
+  - feat
+  - fix
+  - perf
+  - refactor
+  - style
+  - test
+  - chore
+  - revert
+
+# Require a scope to be provided
+requireScope: false
+
+# Configure which scopes are allowed (case-sensitive)
+allowed:
+  - feat
+  - fix
+  - docs
+  - style
+  - refactor
+  - perf
+  - test
+  - build
+  - ci
+  - chore
+  - revert
+
+# Define which scopes should be capitalized (optional)
+capitalizeScopes: false
+
+# Configure which types are allowed (case-sensitive)
+types:
+  - feat     # New features
+  - fix      # Bug fixes
+  - docs     # Documentation changes
+  - style    # Code style changes (formatting, missing semicolons, etc)
+  - refactor # Code refactoring
+  - perf     # Performance improvements
+  - test     # Adding missing tests
+  - build    # Changes to build system
+  - ci       # Changes to CI configuration
+  - chore    # Other changes that don't modify src or test files
+  - revert   # Reverts a previous commit
