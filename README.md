@@ -73,6 +73,16 @@ Welcome to my github homepage, I'm Ming (Harrison Anderson).
 
 <!--## 🏆 Achievenment-->
 
+## 🔐 Verification
+
+### GPG Key
+
+My GPG public key fingerprint: `369731129C28E421F8C147860BC74D3137D71A72`
+
+[![GPG](https://img.shields.io/badge/GPG-Key-blue?style=for-the-badge&logo=gnu-privacy-guard&logoColor=white)](https://github.com/ming2k.gpg)
+
+> All my commits are signed with this key.
+
 
 ## 📫 Connect With Me
 
